@@ -32,6 +32,18 @@ A simple and interactive **German learning desktop application** built with **Py
 - **GUI Library:** Tkinter  
 - **Data Storage:** Local Excel files (`.xlsx`) using `openpyxl`  
 - **Text-to-Speech:** `pyttsx3` (offline speech module)
+  
+![App_Preview_1](https://github.com/user-attachments/assets/0e142fc1-2baf-4de1-a4ba-2ea8ebdf3e3d)
+
+
+![App_Preview_2](https://github.com/user-attachments/assets/95612af5-3ef6-4723-9a9b-48fd76a2f1aa)
+
+
+![App_Preview_3](https://github.com/user-attachments/assets/8af092a0-8da0-429b-8ada-99cb9d1b8b6a)
+
+
+![App_Preview_4](https://github.com/user-attachments/assets/6da99207-492c-4286-a6cc-835cc7a4c988)
+
 
 ## 📦 Installation
 
